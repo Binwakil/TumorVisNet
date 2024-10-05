@@ -1,0 +1,8 @@
+#Ignor the Data Folder 
+
+/Data
+/Literature 
+
+.log
+.ipynb_checkpoint
+
