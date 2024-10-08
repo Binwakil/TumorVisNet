@@ -6,3 +6,6 @@
 .log
 .ipynb_checkpoint
 .gitignore
+tar
+MRI
+*.md
